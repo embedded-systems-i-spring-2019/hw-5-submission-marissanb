@@ -17,7 +17,7 @@
 -- Additional Comments:
 -- 
 ----------------------------------------------------------------------------------
-
+-- Chapter 8, Problem 3
 
 library IEEE;
 use IEEE.STD_LOGIC_1164.ALL;
