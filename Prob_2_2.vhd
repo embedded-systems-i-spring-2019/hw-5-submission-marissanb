@@ -17,7 +17,7 @@
 -- Additional Comments:
 -- 
 ----------------------------------------------------------------------------------
-
+-- Chapter 8, Problem 2 using if statements
 
 library IEEE;
 use IEEE.STD_LOGIC_1164.ALL;
