@@ -18,6 +18,7 @@
 -- 
 ----------------------------------------------------------------------------------
 
+--Chapter 8, Problem 7 using case statements
 
 library IEEE;
 use IEEE.STD_LOGIC_1164.ALL;
