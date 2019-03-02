@@ -18,6 +18,7 @@
 -- 
 ----------------------------------------------------------------------------------
 
+--Chapter 8, Problem 6 using if statements
 
 library IEEE;
 use IEEE.STD_LOGIC_1164.ALL;
